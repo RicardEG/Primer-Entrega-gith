@@ -1,0 +1,44 @@
+.fondo1 {
+    
+   color: black;
+   background-color: rgb(106, 136, 252);
+   margin: auto;
+   
+
+   }
+.textomin {
+   text-align: right;
+   font-size: 8px;
+   font-family: 'Times New Roman', Times, serif;
+}
+    
+
+.texto {
+
+   text-align: center;
+   text-decoration: solid;
+   font-family: sans-serif;
+   padding-inline-start: 2%;
+}
+
+.texto2 {
+
+   text-align: center;
+   text-decoration: dashed;
+   font-family: monospace;
+   font-size: 15px;
+}
+
+.container {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh; 
+}
+
+.container2 {
+   display: flex;
+  justify-content: right;
+  align-items: center;
+  height: 5vh; 
+}
